@@ -12,7 +12,9 @@ fn main() {
 
 
 
-fn hellow()
+fn hellow(
+
+)
 
 
 
